@@ -12,11 +12,11 @@ app.get("/", (req, res) => {
   res.json({ message: "API rodando dentro do Codespaces!" }); 
 }); 
 
-pool.query("SELECT NOW()", (err, result) => { [cite: 456]
-  if (err) { [cite: 457]
-    console.error("Erro ao conectar ao banco:", err); [cite: 458]
+pool.query("SELECT NOW()", (err, result) => { 
+  if (err) { 
+    console.error("Erro ao conectar ao banco:", err); 
   } else {
-    console.log("Banco conectado:", result.rows); [cite: 460]
+    console.log("Banco conectado:", result.rows); 
   }
 });
 

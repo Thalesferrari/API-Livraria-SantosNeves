@@ -1,6 +1,6 @@
 # API-Livraria-SantosNeves
 
-Projeto de API REST desenvolvido para a atividade processual da disciplina de Modelagens e Linguagens de Programação III.
+Projeto de API REST desenvolvido para a atividade processual da disciplina de Modelagem e Linguagem de Programação III.
 
 O objetivo foi criar uma API completa com Node.js e Express, conectada a um banco de dados PostgreSQL e publicada na plataforma Render, seguindo os tutoriais e requisitos da avaliação.
 
@@ -73,9 +73,11 @@ Deleta um usuário do banco de dados pelo seu `id`.
 * **URL:** `https://api-livraria-santosneves.onrender.com/users/1` (exemplo para ID 1)
 
 ---
-*Projeto desenvolvido pelos alunos:*
-*Thales Ferrari*
-*Tiago Cézar*
-*Felipe Motta*
-*Filipe Lins*
-*Maria Eduarda*
+
+## 👥 Equipe do Projeto
+
+* Thales Ferrari
+* Tiago Cézar
+* Felipe Motta
+* Filipe Lins
+* Maria Eduarda

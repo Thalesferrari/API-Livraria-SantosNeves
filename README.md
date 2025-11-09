@@ -73,4 +73,9 @@ Deleta um usuário do banco de dados pelo seu `id`.
 * **URL:** `https://api-livraria-santosneves.onrender.com/users/1` (exemplo para ID 1)
 
 ---
-*Projeto desenvolvido por: Thales Ferrari*
+*Projeto desenvolvido pelos alunos:*
+*Thales Ferrari*
+*Tiago Cézar*
+*Felipe Motta
+*Filipe Lins*
+*Maria Eduarda*

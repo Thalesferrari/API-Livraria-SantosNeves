@@ -76,6 +76,6 @@ Deleta um usuário do banco de dados pelo seu `id`.
 *Projeto desenvolvido pelos alunos:*
 *Thales Ferrari*
 *Tiago Cézar*
-*Felipe Motta
+*Felipe Motta*
 *Filipe Lins*
 *Maria Eduarda*

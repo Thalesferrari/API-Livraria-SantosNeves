@@ -1,6 +1,10 @@
 # API-Livraria-SantosNeves
 
-Projeto de API REST desenvolvido para a atividade processual da disciplina de Modelos e Linguagens de Programação III.
+Projeto de API REST desenvolvido para a atividade processual da disciplina de **Modelos e Linguagens de Programação III**.
+
+**Professor:** Antonio Izo Junior
+**Instituição:** Faculdade Multivix Cachoeiro de Itapemirim
+**Período:** 5º e 6º Período
 
 O objetivo foi criar uma API completa com Node.js e Express, conectada a um banco de dados PostgreSQL e publicada na plataforma Render, seguindo os tutoriais e requisitos da avaliação.
 
